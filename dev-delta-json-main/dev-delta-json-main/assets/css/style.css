@@ -1,0 +1,20 @@
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+#clearButton {
+  background: #dc2626;
+}
+
+#apiOutput img {
+  display: block;
+  width: 250px;
+  max-width: 100%;
+  margin-top: 15px;
+  border-radius: 10px;
+}
